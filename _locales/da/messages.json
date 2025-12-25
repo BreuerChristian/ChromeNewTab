@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "simpel sort ny fane"
-	}
+  "extname": {
+    "message": "simpel sort ny fane"
+  },
+  "about_title": {
+    "message": "Om"
+  },
+  "about_hi": {
+    "message": "Hej, jeg er Christian 👋"
+  },
+  "about_bio": {
+    "message": "Jeg arbejder med teknologi, automatisering og digital kommunikation. Jeg er også familiefar til to børn, hvilket præger min måde at tænke på praktiske, effektive løsninger.\nDenne side er en enkel måde at støtte mit arbejde på, hvis du finder det nyttigt. Alle bidrag er frivillige, og der gives ingen varer eller tjenester."
+  },
+  "about_kofi": {
+    "message": "Støt mig på Ko‑fi"
+  },
+  "about_website": {
+    "message": "Besøg min hjemmeside"
+  },
+  "about_close": {
+    "message": "Luk"
+  }
 }

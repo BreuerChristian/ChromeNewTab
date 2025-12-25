@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "filă nouă neagră simplă"
-	}
+  "extname": {
+    "message": "filă nouă neagră simplă"
+  },
+  "about_title": {
+    "message": "Despre"
+  },
+  "about_hi": {
+    "message": "Bună, sunt Christian 👋"
+  },
+  "about_bio": {
+    "message": "Lucrez cu tehnologie, automatizare și comunicare digitală. Sunt și tată a doi copii, lucru care îmi modelează profund modul de a gândi soluții practice și eficiente.\nAceastă pagină este un mod simplu de a susține munca mea dacă o găsești utilă. Toate contribuțiile sunt voluntare și nu se oferă bunuri sau servicii."
+  },
+  "about_kofi": {
+    "message": "Susține-mă pe Ko‑fi"
+  },
+  "about_website": {
+    "message": "Vizitează site-ul meu"
+  },
+  "about_close": {
+    "message": "Închide"
+  }
 }

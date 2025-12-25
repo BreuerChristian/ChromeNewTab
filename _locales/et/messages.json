@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "lihtne must uus vaheleht"
-	}
+  "extname": {
+    "message": "lihtne must uus vaheleht"
+  },
+  "about_title": {
+    "message": "Teave"
+  },
+  "about_hi": {
+    "message": "Hei, olen Christian 👋"
+  },
+  "about_bio": {
+    "message": "Tegelen tehnoloogia, automatiseerimise ja digitaalse kommunikatsiooniga. Olen ka kahe lapse isa, mis mõjutab tugevalt, kuidas ma mõtlen praktiliste ja tõhusate lahenduste üle.\nSee leht on lihtne viis toetada minu tööd, kui leiad selle kasulikuks. Kõik panused on vabatahtlikud ning kaupu või teenuseid ei anta."
+  },
+  "about_kofi": {
+    "message": "Toeta mind Ko‑fil"
+  },
+  "about_website": {
+    "message": "Külasta minu veebisaiti"
+  },
+  "about_close": {
+    "message": "Sulge"
+  }
 }

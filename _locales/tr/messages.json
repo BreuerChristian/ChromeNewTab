@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "basit siyah yeni sekme"
-	}
+  "extname": {
+    "message": "basit siyah yeni sekme"
+  },
+  "about_title": {
+    "message": "Hakkında"
+  },
+  "about_hi": {
+    "message": "Merhaba, ben Christian 👋"
+  },
+  "about_bio": {
+    "message": "Teknoloji, otomasyon ve dijital iletişim ile çalışıyorum. Ayrıca iki çocuklu bir aile babasıyım; bu da pratik, verimli çözümler düşünme şeklimi büyük ölçüde şekillendiriyor.\nBu sayfa, işimi faydalı bulursanız desteklemenin basit bir yoludur. Tüm katkılar gönüllüdür; mal veya hizmet sağlanmaz."
+  },
+  "about_kofi": {
+    "message": "Beni Ko‑fi de destekleyin"
+  },
+  "about_website": {
+    "message": "Web sitemi ziyaret et"
+  },
+  "about_close": {
+    "message": "Kapat"
+  }
 }

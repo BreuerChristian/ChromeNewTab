@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "nuova scheda nera semplice"
-	}
+  "extname": {
+    "message": "nuova scheda nera semplice"
+  },
+  "about_title": {
+    "message": "Informazioni"
+  },
+  "about_hi": {
+    "message": "Ciao, sono Christian 👋"
+  },
+  "about_bio": {
+    "message": "Lavoro con tecnologia, automazione e comunicazione digitale. Sono anche un padre di famiglia con due figli, il che influenza fortemente il mio modo di pensare a soluzioni pratiche ed efficienti.\nQuesta pagina è un modo semplice per sostenere il mio lavoro se la trovi utile. Tutti i contributi sono volontari e non vengono forniti beni o servizi."
+  },
+  "about_kofi": {
+    "message": "Sostienimi su Ko‑fi"
+  },
+  "about_website": {
+    "message": "Visita il mio sito web"
+  },
+  "about_close": {
+    "message": "Chiudi"
+  }
 }

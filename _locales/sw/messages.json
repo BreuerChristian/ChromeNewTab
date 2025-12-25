@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "kichupo kipya cheusi rahisi"
-	}
+  "extname": {
+    "message": "kichupo kipya cheusi rahisi"
+  },
+  "about_title": {
+    "message": "Kuhusu"
+  },
+  "about_hi": {
+    "message": "Hi, mimi ni Christian 👋"
+  },
+  "about_bio": {
+    "message": "Nafanya kazi na teknolojia, automatisering na mawasiliano ya kidijitali. Pia mimi ni baba wa watoto wawili, jambo ambalo linaathiri kwa kiasi kikubwa jinsi ninafikiria kuhusu suluhisho za vitendo na zenye ufanisi.\nUkurasa huu ni njia rahisi ya kuunga mkono kazi yangu ikiwa unahisi inakusaidia. Mchango wote ni hiari; mizigo au huduma hazitoletwi."
+  },
+  "about_kofi": {
+    "message": "Nisaidie kwenye Ko‑fi"
+  },
+  "about_website": {
+    "message": "Tembelea tovuti yangu"
+  },
+  "about_close": {
+    "message": "Funga"
+  }
 }

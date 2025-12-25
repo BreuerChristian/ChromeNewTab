@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "simple pestanya negra nova"
-	}
+  "extname": {
+    "message": "simple pestanya negra nova"
+  },
+  "about_title": {
+    "message": "Quant a"
+  },
+  "about_hi": {
+    "message": "Hola, sóc Christian 👋"
+  },
+  "about_bio": {
+    "message": "Treballo amb tecnologia, automatització i comunicació digital. També sóc pare de família amb dos fills, cosa que marca la meva forma de pensar en solucions pràctiques i eficients.\nAquesta pàgina és una manera senzilla de donar suport al meu treball si la trobes útil. Totes les contribucions són voluntàries i no s’ofereixen béns ni serveis."
+  },
+  "about_kofi": {
+    "message": "Suporta’m a Ko‑fi"
+  },
+  "about_website": {
+    "message": "Visita el meu lloc web"
+  },
+  "about_close": {
+    "message": "Tanca"
+  }
 }

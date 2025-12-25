@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "paprastas juodas naujas skirtukas"
-	}
+  "extname": {
+    "message": "paprastas juodas naujas skirtukas"
+  },
+  "about_title": {
+    "message": "Apie"
+  },
+  "about_hi": {
+    "message": "Sveiki, aš esu Christian 👋"
+  },
+  "about_bio": {
+    "message": "Dirbu su technologijomis, automatizavimu ir skaitmenine komunikacija. Taip pat esu dviejų vaikų tėvas, kas stipriai formuoja mano mąstymą apie praktiškus ir efektyvius sprendimus.\nŠis puslapis yra paprastas būdas paremti mano darbą, jei manote, kad jis naudingas. Visos aukos yra savanoriškos, prekių ar paslaugų nesiūloma."
+  },
+  "about_kofi": {
+    "message": "Paremkite mane Ko‑fi"
+  },
+  "about_website": {
+    "message": "Apsilankykite mano svetainėje"
+  },
+  "about_close": {
+    "message": "Uždaryti"
+  }
 }

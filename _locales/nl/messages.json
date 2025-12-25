@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "eenvoudig zwart nieuw tabblad"
-	}
+  "extname": {
+    "message": "eenvoudig zwart nieuw tabblad"
+  },
+  "about_title": {
+    "message": "Over"
+  },
+  "about_hi": {
+    "message": "Hoi, ik ben Christian 👋"
+  },
+  "about_bio": {
+    "message": "Ik werk met technologie, automatisering en digitale communicatie. Ik ben ook vader van twee kinderen, wat sterk bepaalt hoe ik denk over praktische, efficiënte oplossingen.\nDeze pagina is een eenvoudige manier om mijn werk te ondersteunen als je het nuttig vindt. Alle bijdragen zijn vrijwillig; er worden geen goederen of diensten geleverd."
+  },
+  "about_kofi": {
+    "message": "Steun me op Ko‑fi"
+  },
+  "about_website": {
+    "message": "Bezoek mijn website"
+  },
+  "about_close": {
+    "message": "Sluiten"
+  }
 }

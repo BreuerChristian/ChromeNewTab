@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "tab baru hitam sederhana"
-	}
+  "extname": {
+    "message": "tab baru hitam sederhana"
+  },
+  "about_title": {
+    "message": "Tentang"
+  },
+  "about_hi": {
+    "message": "Hai, saya Christian 👋"
+  },
+  "about_bio": {
+    "message": "Saya bekerja dengan teknologi, otomasi, dan komunikasi digital. Saya juga ayah keluarga dengan dua anak, yang sangat memengaruhi cara saya berpikir tentang solusi yang praktis dan efisien.\nHalaman ini adalah cara sederhana untuk mendukung pekerjaan saya jika Anda merasa itu berguna. Semua kontribusi bersifat sukarela dan tidak ada barang atau jasa yang diberikan."
+  },
+  "about_kofi": {
+    "message": "Dukung saya di Ko‑fi"
+  },
+  "about_website": {
+    "message": "Kunjungi situs saya"
+  },
+  "about_close": {
+    "message": "Tutup"
+  }
 }

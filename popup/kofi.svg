@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 32" width="160" height="32" aria-hidden="true" focusable="false" role="img">
+  <!-- Ko-fi icon (rounded square + cup) -->
+  <rect x="0" y="0" width="32" height="32" rx="6" fill="#FF5E5E" />
+  <path d="M9 10c0-1.657 1.343-3 3-3s3 1.343 3 3-1.343 3-3 3-3-1.343-3-3z" fill="#fff" transform="translate(0,0)" />
+  <path d="M17 10c0-0.6-0.4-1-1-1h-1.5c-0.2 0-0.4 0.15-0.45 0.35L13 12l1.55 1.65c0.05 0.2 0.25 0.35 0.45 0.35H16c0.6 0 1-0.4 1-1V10z" fill="#fff" opacity="0.95" />
+  <!-- Wordmark -->
+  <g transform="translate(44,22)">
+    <text x="0" y="0" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FF5E5E">Ko‑</text>
+    <text x="34" y="0" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#111">fi</text>
+  </g>
+</svg>

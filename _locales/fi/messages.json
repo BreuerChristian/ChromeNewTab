@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "yksinkertainen musta uusi välilehti"
-	}
+  "extname": {
+    "message": "yksinkertainen musta uusi välilehti"
+  },
+  "about_title": {
+    "message": "Tietoja"
+  },
+  "about_hi": {
+    "message": "Hei, olen Christian 👋"
+  },
+  "about_bio": {
+    "message": "Työskentelen teknologian, automaation ja digitaalisen viestinnän parissa. Olen myös kahden lapsen isä, mikä muokkaa tapaani ajatella käytännöllisiä ja tehokkaita ratkaisuja.\nTämä sivu on yksinkertainen tapa tukea työtäni, jos pidät sitä hyödyllisenä. Kaikki lahjoitukset ovat vapaaehtoisia; tavaroita tai palveluita ei tarjota."
+  },
+  "about_kofi": {
+    "message": "Tue minua Ko‑fi:ssa"
+  },
+  "about_website": {
+    "message": "Vieraile verkkosivullani"
+  },
+  "about_close": {
+    "message": "Sulje"
+  }
 }

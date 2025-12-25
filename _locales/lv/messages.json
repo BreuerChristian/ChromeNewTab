@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "vienkārša melna jauna cilne"
-	}
+  "extname": {
+    "message": "vienkārša melna jauna cilne"
+  },
+  "about_title": {
+    "message": "Par"
+  },
+  "about_hi": {
+    "message": "Sveiki, esmu Christian 👋"
+  },
+  "about_bio": {
+    "message": "Es strādāju ar tehnoloģijām, automatizāciju un digitālo saziņu. Es arī esmu tēvs diviem bērniem, kas būtiski ietekmē manu domāšanu par praktiskiem un efektīviem risinājumiem.\nŠī lapa ir vienkāršs veids, kā atbalstīt manu darbu, ja to uzskati par noderīgu. Visas ziedojumi ir brīvprātīgi; preces vai pakalpojumi netiek nodrošināti."
+  },
+  "about_kofi": {
+    "message": "Atbalsti mani Ko‑fi"
+  },
+  "about_website": {
+    "message": "Apmeklē manu vietni"
+  },
+  "about_close": {
+    "message": "Aizvērt"
+  }
 }

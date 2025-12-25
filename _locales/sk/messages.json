@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "jednoduchá čierna nová záložka"
-	}
+  "extname": {
+    "message": "jednoduchá čierna nová záložka"
+  },
+  "about_title": {
+    "message": "O mne"
+  },
+  "about_hi": {
+    "message": "Ahoj, som Christian 👋"
+  },
+  "about_bio": {
+    "message": "Pracujem s technológiami, automatizáciou a digitálnou komunikáciou. Som tiež otec dvoch detí, čo výrazne ovplyvňuje, ako rozmýšľam o praktických a efektívnych riešeniach.\nTáto stránka je jednoduchý spôsob, ako podporiť moju prácu, ak ju považujete za užitočnú. Všetky príspevky sú dobrovoľné; neponúkajú sa žiadne tovary ani služby."
+  },
+  "about_kofi": {
+    "message": "Podporte ma na Ko‑fi"
+  },
+  "about_website": {
+    "message": "Navštívte moju webovú stránku"
+  },
+  "about_close": {
+    "message": "Zatvoriť"
+  }
 }

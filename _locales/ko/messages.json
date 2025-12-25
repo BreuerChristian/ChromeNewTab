@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "심플한 검정색 새 탭"
-	}
+  "extname": {
+    "message": "심플한 검정색 새 탭"
+  },
+  "about_title": {
+    "message": "정보"
+  },
+  "about_hi": {
+    "message": "안녕하세요, 저는 Christian입니다 👋"
+  },
+  "about_bio": {
+    "message": "저는 기술, 자동화 및 디지털 커뮤니케이션 분야에서 일합니다. 저는 또한 두 자녀를 둔 가정의 부모로서 실용적이고 효율적인 솔루션에 대해 생각하는 방식에 큰 영향을 미칩니다.\n이 페이지는 제 작업이 유용하다고 생각되시면 지원해주실 수 있는 간단한 방법입니다. 모든 기여는 자발적이며 상품이나 서비스는 제공되지 않습니다."
+  },
+  "about_kofi": {
+    "message": "Ko‑fi에서 지원하기"
+  },
+  "about_website": {
+    "message": "내 웹사이트 방문"
+  },
+  "about_close": {
+    "message": "닫기"
+  }
 }

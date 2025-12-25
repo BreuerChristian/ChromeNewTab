@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "לשונית חדשה פשוטה שחורה"
-	}
+  "extname": {
+    "message": "לשונית חדשה פשוטה שחורה"
+  },
+  "about_title": {
+    "message": "אודות"
+  },
+  "about_hi": {
+    "message": "היי, אני כריסטיאן 👋"
+  },
+  "about_bio": {
+    "message": "אני עובד עם טכנולוגיה, אוטומציה ותקשורת דיגיטלית. אני גם אב לשני ילדים, וזה משפיע רבות על האופן שבו אני חושב על פתרונות מעשיים ויעילים.\nדף זה הוא דרך פשוטה לתמוך בעבודתי אם אתה מוצא אותה מועילה. כל התרומות הן התנדבותיות, ואין סחורות או שירותים מסופקים."
+  },
+  "about_kofi": {
+    "message": "תמוך בי ב‑Ko‑fi"
+  },
+  "about_website": {
+    "message": "בקר באתר שלי"
+  },
+  "about_close": {
+    "message": "סגור"
+  }
 }

@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "egyszerű fekete új lap"
-	}
+  "extname": {
+    "message": "egyszerű fekete új lap"
+  },
+  "about_title": {
+    "message": "A szerzőről"
+  },
+  "about_hi": {
+    "message": "Szia, Christian vagyok 👋"
+  },
+  "about_bio": {
+    "message": "Technológiával, automatizálással és digitális kommunikációval foglalkozom. Két gyermekes családapa is vagyok, ami nagyban meghatározza, hogyan gondolkodom a gyakorlati, hatékony megoldásokról.\nEz az oldal egy egyszerű módja annak, hogy támogasd a munkámat, ha hasznosnak találod. Minden hozzájárulás önkéntes; árukat vagy szolgáltatásokat nem nyújtunk."
+  },
+  "about_kofi": {
+    "message": "Támogass Ko‑fi‑n"
+  },
+  "about_website": {
+    "message": "Látogasd meg a weboldalam"
+  },
+  "about_close": {
+    "message": "Bezárás"
+  }
 }

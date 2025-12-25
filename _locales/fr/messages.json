@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "nouvel onglet noir simple"
-	}
+  "extname": {
+    "message": "nouvel onglet noir simple"
+  },
+  "about_title": {
+    "message": "À propos"
+  },
+  "about_hi": {
+    "message": "Salut, je suis Christian 👋"
+  },
+  "about_bio": {
+    "message": "Je travaille dans la technologie, l’automatisation et la communication digitale. Je suis également père de famille de deux enfants, ce qui influence fortement ma manière de penser des solutions pratiques et efficaces.\nCette page est un moyen simple de soutenir mon travail si vous la trouvez utile. Toutes les contributions sont volontaires et aucun bien ni service n’est fourni."
+  },
+  "about_kofi": {
+    "message": "Soutenez-moi sur Ko‑fi"
+  },
+  "about_website": {
+    "message": "Visitez mon site web"
+  },
+  "about_close": {
+    "message": "Fermer"
+  }
 }

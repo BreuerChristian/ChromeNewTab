@@ -1,5 +1,23 @@
 {
-	"extname": {
-		"message": "preprost črn nov zavihek"
-	}
+  "extname": {
+    "message": "preprost črn nov zavihek"
+  },
+  "about_title": {
+    "message": "O meni"
+  },
+  "about_hi": {
+    "message": "Živjo, sem Christian 👋"
+  },
+  "about_bio": {
+    "message": "Delam s tehnologijo, avtomatizacijo in digitalno komunikacijo. Sem tudi oče dveh otrok, kar močno vpliva na moje razmišljanje o praktičnih in učinkovitih rešitvah.\nTa stran je preprost način, da podprete moje delo, če vam je koristno. Vsi prispevki so prostovoljni; nobena blaga ali storitve niso zagotovljene."
+  },
+  "about_kofi": {
+    "message": "Podprite me na Ko‑fi"
+  },
+  "about_website": {
+    "message": "Obiščite mojo spletno stran"
+  },
+  "about_close": {
+    "message": "Zapri"
+  }
 }

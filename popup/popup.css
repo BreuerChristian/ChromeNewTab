@@ -1,0 +1,22 @@
+:root{
+  --bg:#0b0b0b;
+  --card:#111;
+  --muted:#c7c7c7;
+  --accent:#ff5e5e;
+}
+
+html,body{margin:0;padding:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+body{background:transparent;padding:12px;width:320px}
+.popup{background:var(--card);color:#fff;border-radius:8px;padding:12px;box-shadow:0 6px 20px rgba(0,0,0,.4)}
+.name{margin:0;font-size:16px}
+.hi{margin:.25rem 0;color:var(--muted)}
+.bio{font-size:13px;color:var(--muted);line-height:1.35}
+.actions{display:flex;gap:8px;margin-top:10px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:8px 10px;border-radius:6px;text-decoration:none;color:#fff;font-weight:600;font-size:13px}
+.kofi-wordmark{width:88px;height:auto;display:inline-block;flex:0 0 auto}
+.kofi-text{display:none}
+.kofi{background:#ff5e5e}
+.site{background:#333;border:1px solid rgba(255,255,255,.04)}
+.close{margin-top:12px;background:transparent;border:0;color:var(--muted);cursor:pointer}
+
+@media (max-width:360px){body{width:280px}}
