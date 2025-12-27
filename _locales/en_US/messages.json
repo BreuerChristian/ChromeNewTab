@@ -1,23 +1,23 @@
 {
-	"extname": {
-		"message": "simple black new tab"
-	},
-	"about_title": {
-		"message": "About"
-	},
-	"about_hi": {
-		"message": "Hi, I’m Christian 👋"
-	},
-	"about_bio": {
-		"message": "I work with tech, automation, and digital communication. I’m also a family dad with two kids, which strongly shapes how I think about practical, efficient solutions.\nThis page is a simple way to support my work if you find it useful. All contributions are voluntary, with no goods or services provided."
-	},
-	"about_kofi": {
-		"message": "Support me on Ko‑fi"
-	},
-	"about_website": {
-		"message": "Visit my website"
-	},
-	"about_close": {
-		"message": "Close"
-	}
+  "extname": {
+    "message": "simple black new tab"
+  },
+  "about_title": {
+    "message": "About"
+  },
+  "about_hi": {
+    "message": "Hi, I’m Christian 👋"
+  },
+  "about_bio": {
+    "message": "I develop practical solutions to make your digital everyday life efficient and secure.\n\nIf this extension helps you and saves time, I would be hugely grateful for a small support for my work (and my two children 👨‍👧‍👦)."
+  },
+  "about_kofi": {
+    "message": "Support me on Ko‑fi"
+  },
+  "about_website": {
+    "message": "Visit my website"
+  },
+  "about_close": {
+    "message": "Close"
+  }
 }
